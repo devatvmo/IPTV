@@ -11,7 +11,7 @@
 - 💯EPG深度**定制匹配**频道列表|**完美匹配**
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
-
+https://github.com/devatvmo/IPTV/blob/main/privers.m3u
 🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Wkxjig1P6jvlrJAHprasyalhBvejXl3&authKey=XUyNW6ZkFzXqpjT0VqMOypkY7mT2paKTn9MZnviZ0zyQHXdjEHTbttjId3KWr%2Fnf&noverify=0&group_code=839970414)
 
 ## 📖说明
